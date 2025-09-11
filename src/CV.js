@@ -1,9 +1,9 @@
 const imagePaths = [
-  "./image/album4.jpg",
-  "./image/album1.jpg",
-  "./image/album.jpg",
-  "./image/album2.jpg",
-  "./image/album3.jpg"
+  "../image/album4.jpg",
+  "../image/album1.jpg",
+  "../image/album.jpg",
+  "../image/album2.jpg",
+  "../image/album3.jpg"
 ];
 
 let currentIndex = 0;

@@ -125,7 +125,7 @@ div::after {
   line-height : 1.5;
   width :100%;
   overflow: hidden;
-  background-image : url("./image/contact.jpg");
+  background-image : url("../image/contact.jpg");
   background-size : cover;
 }
 
@@ -241,7 +241,7 @@ div::after {
 }
 
 .close_modal {
-  background-image : url("./image/close.png");
+  background-image : url("../image/close.png");
   background-size : cover;
 	border : black 2px solid;
 	border-radius: 50%;
@@ -258,7 +258,7 @@ div::after {
 
 #jump_top{
 	color : black;
-	background-image : url("./image/top.png");
+	background-image : url("../image/top.png");
 	background-size : cover;
 	border-radius: 50%;
 	width:50px;
@@ -282,7 +282,7 @@ div::after {
 
 #jump_bottom{
 	color : black;
-	background-image : url("./image/bottom.png");
+	background-image : url("../image/bottom.png");
 	background-size : cover;
 	width:100%;
 	height:48px;
