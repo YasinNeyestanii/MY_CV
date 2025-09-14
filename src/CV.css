@@ -5,6 +5,10 @@
 	direction:rtl;
 }
 
+html {
+  scroll-behavior: smooth;  
+}
+
 body{
 	height: 100%;
 	background-color: #003B36;
