@@ -3,4 +3,4 @@
 
 
 # how it run
-- you should clon the src and image folder then run the CV.html file them it run on your browser (like chrome , firefox or ...)
+- you should clon the repository then run the CV.html file from src folder them it run on your browser (like chrome , firefox or ...)
