@@ -199,7 +199,7 @@ div::after {
 #linkha {
   white-space: nowrap;     /* جلوگیری از شکستن متن */
   text-decoration: none;   /* حذف زیرخط لینک‌ها */
-  color: #003B36;            /* رنگ دلخواه برای لینک‌ها */
+  color: blue;            /* رنگ دلخواه برای لینک‌ها */
   font-family: sans-serif;
 }
 #nav_link:hover,#linkha:hover{
@@ -312,9 +312,9 @@ div::after {
     left: 50px;
     top: 750px;
 	width : 20%;
-	height :250%;
-    pointer-events: none; 
-    z-index: 200;
+	height :350%;
+  pointer-events: none; 
+  z-index: 200;
 	background-color : rgba(0,0,0,0);
 }
 
@@ -331,13 +331,13 @@ div::after {
 }
 
 
-.library-icons img:nth-child(1) { top: 5%; left: 5%;  --rand: 0.2; }
+.library-icons img:nth-child(1) { top: 2%; left: 5%;  --rand: 0.2; }
 .library-icons img:nth-child(2) { top: 20%; left: 20%; --rand: 0.5; }
 .library-icons img:nth-child(3) { top: 35%; left: 10%; --rand: 0.7; }
 .library-icons img:nth-child(4) { top: 50%; left: 15%; --rand: 0; }
 .library-icons img:nth-child(5) { top: 64%; left: 5%; --rand: 0.9; }
 .library-icons img:nth-child(6) { top: 80%; left: 15%; --rand: 0.3; }
-.library-icons img:nth-child(7) { top: 93%; left: 10%; --rand: 0; }
+.library-icons img:nth-child(7) { top: 99%; left: 10%; --rand: 0; }
 
 .library-icons img:hover {
     transform: scale(1.2) rotate(5deg);
